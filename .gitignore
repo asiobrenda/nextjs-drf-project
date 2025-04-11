@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.next/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.log
+*.sqlite3
+.env
+staticfiles/
+media/
+
+# macOS
+.DS_Store
